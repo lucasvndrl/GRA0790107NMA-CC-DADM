@@ -11,3 +11,8 @@ Fazem parte do desenvolvimento deste projeto os membros:
 * José Gabriel Rodrigues dos Santos - <01308482@sempreuninassau.com.br>
 * Gabriel Gomes Nunes - <01384456@sempreuninassau.com.br>
 
+REPOSITÒRIOS ORIGINAIS:
+
+## Front-end https://github.com/lucasvndrl/frontend-urna
+## Back-end https://github.com/lucasvndrl/backend-urna
+
